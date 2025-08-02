@@ -1,25 +1,35 @@
-# Hello, I´m José Carlos👋
+Olá, eu sou José Carlos👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Sobre mim:
 
-<!--
-**JCarlosGN/JCarlosGN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💼 Atualmente trabalho como Operador de Estação de Tratamento de Água
+- 🏠 Moro e trabalho em Caruaru - PE
+- 🎓 Estudante de Ciências de Dados
+- 🚀 Em transição para a área de dados
+- 📖 Em busca de conhecimento constante
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 
+
+Principais Ferramentas:
+
+<div style="display: inline_block">
+  <img align="center" alt="SQL" height="40" width="40" src="https://github.com/BruceFonseca/ferramentas/blob/main/logo.png?raw=true">
+  <img align="center" alt="Power BI" height="40" width="40" src="https://github.com/BruceFonseca/ferramentas/blob/main/1200px-New_Power_BI_Logo.svg.png?raw=true">
+  <img align="center" alt="Python" height="40" width="40" src="https://github.com/BruceFonseca/ferramentas/blob/main/Python-logo-notext.svg.png?raw=true">
+</div>
+
+<br>
+
+  
+Onde me encontrar:
+<div style="display: inline_block">
+  <a href="https://www.linkedin.com/in/jc-galvao/" target="_blank">
+    <img align="center" alt="" height="40" width="40" src="https://github.com/BruceFonseca/Portfolio/blob/main/social%20icons/linkedin.png?raw=true">
+  </a>
+</div>
+
+## 
+
+## Portfólio e Principais Projetos
+### Vendas Dashboard
