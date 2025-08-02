@@ -31,4 +31,24 @@ Onde me encontrar:
 ##
 
 ## Portfólio e Principais Projetos
+
 ### Vendas Dashboard
+
+<img align="right" width="500"  src="https://github.com/JCarlosGN/VendasPortfolio/blob/main/Imagens/Vis%C3%A3o%20Geral%20Vendas.JPG?raw=true">
+Projeto  desenvolvido para análise de vendas de uma empresa automotiva.
+
+Principais desafios: <br>
+- Principais Indicadores e Métricas (KPIs)
+
+- Análise de Vendas por Canal e Região
+
+- Detalhes por Produto e Segmento
+
+- Ferramentas e Medidas Utilizadas
+
+O projeto utiliza um conjunto de medidas DAX para calcular as métricas com precisão.
+<br>
+<br>
+<a href="https://app.powerbi.com/groups/me/reports/dc42c818-42fa-4c3a-9837-4f1c3fb3f5ad/a2d23ca3238c8df87397?experience=power-bi">Clique aqui</a> e acesse o a solução desenvolvida para o cliente.
+<br>
+<a href="https://github.com/JCarlosGN/VendasPortfolio">Clique aqui</a> e acesse o repositório no Github.
