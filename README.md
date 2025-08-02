@@ -38,14 +38,10 @@ Onde me encontrar:
 Projeto  desenvolvido para análise de vendas de uma empresa automotiva.
 
 Principais desafios: <br>
-- Principais Indicadores e Métricas (KPIs)
-
-- Análise de Vendas por Canal e Região
-
-- Detalhes por Produto e Segmento
-
-- Ferramentas e Medidas Utilizadas
-
+- Principais Indicadores e Métricas (KPIs).<br>
+- Análise de Vendas por Canal e Região.<br>
+- Detalhes por Produto e Segmento.<br>
+- Ferramentas e Medidas Utilizadas.<br>
 O projeto utiliza um conjunto de medidas DAX para calcular as métricas com precisão.
 <br>
 <br>
