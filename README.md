@@ -20,7 +20,6 @@ Principais Ferramentas:
 </div>
 
 <br>
-
   
 Onde me encontrar:
 <div style="display: inline_block">
@@ -29,7 +28,7 @@ Onde me encontrar:
   </a>
 </div>
 
-## 
+##
 
 ## Portfólio e Principais Projetos
 ### Vendas Dashboard
