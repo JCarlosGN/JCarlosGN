@@ -34,7 +34,7 @@ Onde me encontrar:
 
 ### Vendas Dashboard
 
-<img align="right" width="500"  src="https://github.com/JCarlosGN/VendasPortfolio/blob/main/Imagens/Vis%C3%A3o%20Geral%20Vendas.JPG?raw=true">
+<img align="right" width="500"  src="https://github.com/JCarlosGN/VendasPortfolio/blob/main/Vis%C3%A3o%20Geral%20Vendas.JPG?raw=true">
 Projeto  desenvolvido para análise de vendas de uma empresa automotiva.
 
 Principais desafios: <br>
