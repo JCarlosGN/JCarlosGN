@@ -49,6 +49,6 @@ Principais desafios: <br>
 O projeto utiliza um conjunto de medidas DAX para calcular as métricas com precisão.
 <br>
 <br>
-<a href="https://app.powerbi.com/groups/me/reports/dc42c818-42fa-4c3a-9837-4f1c3fb3f5ad/a2d23ca3238c8df87397?experience=power-bi">Clique aqui</a> e acesse o a solução desenvolvida para o cliente.
+<a href="https://app.powerbi.com/view?r=eyJrIjoiNjg2NGY2ZjYtMzBhZi00MzZhLTgyZTYtOGNkZmYwNTMwMjAwIiwidCI6IjU1NjA1YTYzLTAyNDQtNDlmMy05NTZlLWQ3NDIwODcyMzg5NiJ9">Clique aqui</a> e acesse o a solução desenvolvida para o cliente.
 <br>
 <a href="https://github.com/JCarlosGN/VendasPortfolio">Clique aqui</a> e acesse o repositório no Github.
