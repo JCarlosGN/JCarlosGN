@@ -35,14 +35,14 @@ Onde me encontrar:
 ### Vendas Dashboard
 
 <img align="right" width="500"  src="https://github.com/JCarlosGN/VendasPortfolio/blob/main/Vis%C3%A3o%20Geral%20Vendas.JPG?raw=true">
-Projeto  desenvolvido para análise de vendas de uma empresa automotiva.
+Este projeto é um painel analítico de vendas, desenvolvido para uma empresa do setor automotivo, com foco em lubrificantes e aditivos. O dashboard oferece uma visão estratégica do desempenho de 2022, destacando a distribuição de vendas entre aditivos e lubrificantes, a performance regional, a evolução das vendas mês a mês por planta produtiva e a participação de mercado em nível nacional.<br>
 
 Principais desafios: <br>
 - Principais Indicadores e Métricas (KPIs).<br>
 - Análise de Vendas por Canal e Região.<br>
 - Detalhes por Produto e Segmento.<br>
 - Ferramentas e Medidas Utilizadas.<br>
-O projeto utiliza um conjunto de medidas DAX para calcular as métricas com precisão.
+
 <br>
 <br>
 <a href="https://app.powerbi.com/view?r=eyJrIjoiNjg2NGY2ZjYtMzBhZi00MzZhLTgyZTYtOGNkZmYwNTMwMjAwIiwidCI6IjU1NjA1YTYzLTAyNDQtNDlmMy05NTZlLWQ3NDIwODcyMzg5NiJ9">Clique aqui</a> e acesse o a solução desenvolvida para o cliente.
