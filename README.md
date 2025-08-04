@@ -32,7 +32,7 @@ Onde me encontrar:
 
 ## Portfólio e Principais Projetos
 
-### Vendas Dashboard
+### Vendas Empresa Automotiva
 
 <img align="right" width="500"  src="https://github.com/JCarlosGN/VendasPortfolio/blob/main/Vis%C3%A3o%20Geral%20Vendas.JPG?raw=true">
 Este projeto é um painel analítico de vendas, desenvolvido para uma empresa do setor automotivo, com foco em lubrificantes e aditivos. O dashboard oferece uma visão estratégica do desempenho de 2022, destacando a distribuição de vendas entre aditivos e lubrificantes, a performance regional, a evolução das vendas mês a mês por planta produtiva e a participação de mercado em nível nacional.<br>
