@@ -45,6 +45,6 @@ Principais desafios: <br>
 
 <br>
 <br>
-<a href="https://app.powerbi.com/view?r=eyJrIjoiNjg2NGY2ZjYtMzBhZi00MzZhLTgyZTYtOGNkZmYwNTMwMjAwIiwidCI6IjU1NjA1YTYzLTAyNDQtNDlmMy05NTZlLWQ3NDIwODcyMzg5NiJ9">Clique aqui</a> e acesse o a solução desenvolvida para o cliente.
+<a href="https://app.powerbi.com/view?r=eyJrIjoiNjg2NGY2ZjYtMzBhZi00MzZhLTgyZTYtOGNkZmYwNTMwMjAwIiwidCI6IjU1NjA1YTYzLTAyNDQtNDlmMy05NTZlLWQ3NDIwODcyMzg5NiJ9">Clique aqui</a> e acesse o a solução desenvolvida para a empresa Contoso.
 <br>
 <a href="https://github.com/JCarlosGN/VendasPortfolio">Clique aqui</a> e acesse o repositório no Github.
