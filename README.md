@@ -47,7 +47,7 @@ O objetivo principal do projeto foi proporcionar uma visão detalhada das vendas
 <a href="https://app.powerbi.com/view?r=eyJrIjoiYTZlYTA4NjEtYjg1Yi00ZmQxLTgzMzgtZmExYzQ1NGRjMDgzIiwidCI6IjU1NjA1YTYzLTAyNDQtNDlmMy05NTZlLWQ3NDIwODcyMzg5NiJ9
 ">Clique aqui</a> e acesse o a solução desenvolvida para a empresa Contoso.
 <br>
-<a href="">Clique aqui</a> e acesse o repositório no Github.
+<a href="https://github.com/JCarlosGN/ContosoVendasOnline">Clique aqui</a> e acesse o repositório no Github.
 
 ##
 
@@ -66,4 +66,4 @@ Principais desafios: <br>
 <br>
 <a href="https://app.powerbi.com/view?r=eyJrIjoiNjg2NGY2ZjYtMzBhZi00MzZhLTgyZTYtOGNkZmYwNTMwMjAwIiwidCI6IjU1NjA1YTYzLTAyNDQtNDlmMy05NTZlLWQ3NDIwODcyMzg5NiJ9">Clique aqui</a> e acesse o a solução desenvolvida para a empresa Contoso.
 <br>
-<a href="https://github.com/JCarlosGN/VendasPortfolio">Clique aqui</a> e acesse o repositório no Github.
+<a href="https://github.com/JCarlosGN/ContosoVendasOnline">Clique aqui</a> e acesse o repositório no Github.
