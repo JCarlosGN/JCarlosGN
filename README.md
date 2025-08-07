@@ -32,6 +32,25 @@ Onde me encontrar:
 
 ## Portfólio e Principais Projetos
 
+### Vendas Online Contoso
+
+<img align="right" width="500"  src="https://github.com/user-attachments/assets/55363b3d-b46e-4955-b6b3-291c1153d5f5">
+Projeto de Visão Geral de E-commerce (Contoso E-Commerce Overview), com o objetivo de monitorar e analisar o desempenho de vendas online da empresa Contoso. O foco principal foi traduzir dados brutos em insights acionáveis, utilizando o Power BI para construir uma interface intuitiva e interativa.<br><br>
+
+O objetivo principal do projeto foi proporcionar uma visão detalhada das vendas online da empresa. Isso foi alcançado através de um dashboard que permite aos gestores:<br>
+- Monitorar Desempenho Financeiro: Acompanhar KPIs essenciais como Vendas Online, Margem Bruta, Custo de Produtos e Valor Médio do Pedido em tempo real.<br>
+- Identificar Tendências e Variações: Analisar o desempenho de vendas ao longo do tempo, identificar a variação anual (YoY) por categoria e o impacto de promoções sazonais.<br>
+- Explorar Detalhes do Negócio: Mergulhar em dados específicos através de filtros dinâmicos e tooltips personalizadas, sem sobrecarregar a tela principal.<br>
+
+<br>
+<br>
+<a href="https://app.powerbi.com/view?r=eyJrIjoiYTZlYTA4NjEtYjg1Yi00ZmQxLTgzMzgtZmExYzQ1NGRjMDgzIiwidCI6IjU1NjA1YTYzLTAyNDQtNDlmMy05NTZlLWQ3NDIwODcyMzg5NiJ9
+">Clique aqui</a> e acesse o a solução desenvolvida para a empresa Contoso.
+<br>
+<a href="">Clique aqui</a> e acesse o repositório no Github.
+
+##
+
 ### Vendas Empresa Automotiva
 
 <img align="right" width="500"  src="https://github.com/JCarlosGN/VendasPortfolio/blob/main/Vis%C3%A3o%20Geral%20Vendas.JPG?raw=true">
