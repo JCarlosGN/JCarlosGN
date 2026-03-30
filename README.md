@@ -2,11 +2,11 @@ Olá, eu sou José Carlos👋
 
 Sobre mim:
 
-- 💼 Atualmente trabalho como Operador de Estação de Tratamento de Água
-- 🏠 Moro e trabalho em Caruaru - PE
+- 💼 Atualmente trabalho como Agente de Higienização
+- 🏠 Residente em Caruaru - PE
 - 🎓 Estudante de Ciências de Dados
 - 🚀 Em transição para a área de dados
-- 📖 Em busca de conhecimento constante
+- 📖 Em busca de conhecimento continuo
 
 
 ## 
