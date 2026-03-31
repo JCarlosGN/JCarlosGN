@@ -2,7 +2,7 @@ Olá, eu sou José Carlos👋
 
 Sobre mim:
 
-- 💼 Atualmente trabalho como Agente de Higienização
+- 💼 Atualmente em transição de carreira para Análise de Dados
 - 🏠 Residente em Caruaru - PE
 - 🎓 Estudante de Ciências de Dados
 - 🚀 Em transição para a área de dados
