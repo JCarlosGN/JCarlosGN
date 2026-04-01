@@ -52,8 +52,10 @@ Objetivos principais:<br>
 - Visualizar os dados por cidade e por tipo de ocorrência.
 <br>
 <br>
-<a href="https://github.com/JCarlosGN/Projeto_Logistica_Portfolio">Clique aqui</a> e acesse o repositório no Github.
-
+<a href="https://github.com/JCarlosGN/Projeto_Logistica_Portfolio">Clique aqui</a> e acesse o repositório no Github.<br>
+<a href="https://app.powerbi.com/view?r=eyJrIjoiMGM2NGIxNDItYjExMy00ZDYxLWEyNWQtYTUyOTJhZWYyMzk5IiwidCI6IjU1NjA1YTYzLTAyNDQtNDlmMy05NTZlLWQ3NDIwODcyMzg5NiJ9
+">Clique aqui</a> e acesse o a solução desenvolvida para a empresa.
+<br>
 
 ##
 
