@@ -35,7 +35,6 @@ Onde me encontrar:
 ### Inteligência Logística: Dashboard de Performance e Saúde Financeira
 
 <img align="right" width="500"  src="https://github.com/JCarlosGN/Projeto_Logistica_Portfolio/blob/main/Imagens%20Projeto%20Logistica/P%C3%A1gina%20KPI%C2%B4s.JPG?raw=true">
-
 <img align="right" width="500"  src="https://github.com/JCarlosGN/Projeto_Logistica_Portfolio/blob/main/Imagens%20Projeto%20Logistica/P%C3%A1gina%20Financeiro.JPG?raw=true">
 Projeto surgiu da necessidade do gestor da logística que está com dificuldade para acompanhar o desempenho logístico das
 operações que atualmente não tem uma visão consolidada e acessível dos Centros de Distribuição
@@ -50,7 +49,11 @@ Objetivos principais:<br>
 - Verificar a distribuição de pedidos por tipo de veículo utilizado;<br>
 - Avaliar o desempenho mensal dos KPIs;<br>
 - Ter uma visão financeira dos custos logísticos, receita bruta, margem e ticket médio;<br>
-- Visualizar os dados por cidade e por tipo de ocorrência.<br>
+- Visualizar os dados por cidade e por tipo de ocorrência.
+<br>
+<br>
+<a href="https://github.com/JCarlosGN/Projeto_Logistica_Portfolio">Clique aqui</a> e acesse o repositório no Github.
+
 
 ##
 
