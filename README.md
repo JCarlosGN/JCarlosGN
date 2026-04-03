@@ -65,7 +65,6 @@ A solução centraliza dados de múltiplos períodos (2022-2025) em uma torre de
   </a>
 </div>
 
-<br>
 ##
 
 ### Vendas Online Contoso
