@@ -1,23 +1,24 @@
-Olá, eu sou José Carlos👋
+# Olá, eu sou José Carlos 👋
 
-Sobre mim:
+Sou um profissional em transição de carreira para a área de **Dados**, atualmente cursando **Ciência de Dados** e atuando como Agente de Higienização na Localiza. Meu foco é transformar dados brutos em inteligência estratégica para operações logísticas e comerciais.
 
-- 💼 Atualmente trabalho como Agente de Higienização
-- 🏠 Residente em Caruaru - PE
-- 🎓 Estudante de Ciências de Dados
-- 🚀 Em transição para a área de dados
-- 📖 Em busca de conhecimento continuo
+- 📍 Residente em Caruaru - PE
+- 🎓 Estudante de Ciência de Dados (Cloud e Análise de Dados) na Gran Faculdade
+- 💼 Experiência em setores industriais e logísticos
+- 🚀 Foco em SQL, Python, Power BI e automação de processos
 
+---
 
-## 
-
-Principais Ferramentas:
+### Ferramentas e Tecnologias
 
 <div style="display: inline_block">
   <img align="center" alt="SQL" height="40" width="40" src="https://github.com/BruceFonseca/ferramentas/blob/main/logo.png?raw=true">
   <img align="center" alt="Power BI" height="40" width="40" src="https://github.com/BruceFonseca/ferramentas/blob/main/1200px-New_Power_BI_Logo.svg.png?raw=true">
   <img align="center" alt="Python" height="40" width="40" src="https://github.com/BruceFonseca/ferramentas/blob/main/Python-logo-notext.svg.png?raw=true">
+  <img align="center" alt="Excel" height="40" width="40" src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png">
 </div>
+
+<br>
 
 <br>
   
