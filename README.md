@@ -32,31 +32,40 @@ Onde me encontrar:
 
 ## Portfólio e Principais Projetos
 
-### Inteligência Logística: Dashboard de Performance e Saúde Financeira
+# Inteligência Logística: Dashboard de Performance e Saúde Financeira
 
-<img align="right" width="500"  src="https://github.com/JCarlosGN/Projeto_Logistica_Portfolio/blob/main/Imagens%20Projeto%20Logistica/P%C3%A1gina%20KPI%C2%B4s.JPG?raw=true">
-<img align="right" width="500"  src="https://github.com/JCarlosGN/Projeto_Logistica_Portfolio/blob/main/Imagens%20Projeto%20Logistica/P%C3%A1gina%20Financeiro.JPG?raw=true">
-Projeto surgiu da necessidade do gestor da logística que está com dificuldade para acompanhar o desempenho logístico das
-operações que atualmente não tem uma visão consolidada e acessível dos Centros de Distribuição
-(CDs), o que tem dificultado a tomada de decisões estratégicas.<br><br>
+<div align="center">
+  <img src="https://github.com/JCarlosGN/Projeto_Logistica_Portfolio/blob/main/Imagens%20Projeto%20Logistica/P%C3%A1gina%20KPI%C2%B4s.JPG?raw=true" width="48%">
+  <img src="https://github.com/JCarlosGN/Projeto_Logistica_Portfolio/blob/main/Imagens%20Projeto%20Logistica/P%C3%A1gina%20Financeiro.JPG?raw=true" width="48%">
+</div>
 
-Objetivos principais:<br>
-- Acompanhar a performance logística de forma consolidada entre todos os CDs;<br>
-- Ter a possibilidade de analisar cada CD individualmente;<br>
-- Acompanhar os principais KPIs logísticos como OTIF (Entrega no prazo e completa), INFULL ( Entrega completa) e ONTIME (Entrega no prazo);<br>
-- Visualizar o volume de pedidos entregues no prazo e os atrasados;<br>
-- Ter uma visão clara das ocorrências logísticas (como mercadoria errada, cliente ausente etc);<br>
-- Verificar a distribuição de pedidos por tipo de veículo utilizado;<br>
-- Avaliar o desempenho mensal dos KPIs;<br>
-- Ter uma visão financeira dos custos logísticos, receita bruta, margem e ticket médio;<br>
-- Visualizar os dados por cidade e por tipo de ocorrência.
-<br>
-<br>
-<a href="https://github.com/JCarlosGN/Projeto_Logistica_Portfolio">Clique aqui</a> e acesse o repositório no Github.<br>
-<a href="https://app.powerbi.com/view?r=eyJrIjoiMGM2NGIxNDItYjExMy00ZDYxLWEyNWQtYTUyOTJhZWYyMzk5IiwidCI6IjU1NjA1YTYzLTAyNDQtNDlmMy05NTZlLWQ3NDIwODcyMzg5NiJ9
-">Clique aqui</a> e acesse o a solução desenvolvida para a empresa.
 <br>
 
+Este projeto foi desenvolvido para suprir a carência de visibilidade de dados em uma operação logística de larga escala. O gestor enfrentava dificuldades em consolidar o desempenho dos Centros de Distribuição (CDs), o que comprometia a agilidade na tomada de decisões estratégicas. 
+
+A solução centraliza dados de múltiplos períodos (2022-2025) em uma torre de controle interativa.
+
+### Objetivos Estratégicos
+
+- **Visibilidade Consolidada:** Acompanhamento da performance de todos os CDs em uma única interface.
+- **Análise Granular:** Capacidade de filtrar e analisar o desempenho individual por unidade operativa.
+- **Monitoramento de SLA:** Acompanhamento rigoroso de KPIs como OTIF (Entrega no prazo e completa), InFull e OnTime.
+- **Gestão de Exceções:** Identificação clara de ocorrências (mercadoria errada, cliente ausente, etc.) e seus impactos.
+- **Inteligência de Frota:** Análise da distribuição de pedidos por tipo de veículo utilizado.
+- **Saúde Financeira:** Monitoramento direto de custos logísticos, receita bruta, margem e ticket médio por rota e cidade.
+
+<br>
+
+<div align="center">
+  <a href="https://app.powerbi.com/view?r=eyJrIjoiMGM2NGIxNDItYjExMy00ZDYxLWEyNWQtYTUyOTJhZWYyMzk5IiwidCI6IjU1NjA1YTYzLTAyNDQtNDlmMy05NTZlLWQ3NDIwODcyMzg5NiJ9">
+    <img src="https://img.shields.io/badge/ACESSAR%20DASHBOARD%20INTERATIVO-208EED?style=for-the-badge&logo=powerbi&logoColor=white">
+  </a>
+  <a href="https://github.com/JCarlosGN/Projeto_Logistica_Portfolio">
+    <img src="https://img.shields.io/badge/VER%20REPOSITÓRIO%20NO%20GITHUB-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+</div>
+
+<br>
 ##
 
 ### Vendas Online Contoso
