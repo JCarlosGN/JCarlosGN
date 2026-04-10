@@ -51,8 +51,9 @@ A solução centraliza dados de múltiplos ativos, turnos e categorias de produt
 * **Visibilidade Consolidada:** Acompanhamento da performance global de produção em uma única interface, permitindo o monitoramento do percentual de atingimento de metas.
 * **Análise Granular:** Capacidade de filtrar e analisar o desempenho individualizado por **Máquina, Produto e Turno**, garantindo que nenhum desvio operacional passe despercebido.
 * **Monitoramento de Acumulados (YTD):** Comparativo rigoroso entre a Produção Real vs. Meta Acumulada, permitindo previsibilidade de fechamento de período.
-* **Gestão de Causa Raiz:** Identificação clara de meses com menor performance, como o caso de **Agosto**, onde o dashboard revelou a inatividade da **Máquina 2** como principal detrator do resultado operacional.
-
+* **Gestão de Causa Raiz:** O dashboard permitiu diagnosticar que o declínio no atingimento das metas em dois períodos críticos não foi causado por ineficiência operacional, mas por fatores estratégicos e técnicos:
+    * **Julho (Desvio de Planejamento):** Identifiquei que a meta foi elevada em **40% acima da média histórica** (saltando para 1,19 Mi). Como a produção manteve seu ritmo estável, o "declínio" no dashboard foi provocado por uma meta irreal para a capacidade instalada da planta naquele período.
+    * **Agosto (Falha de Disponibilidade):** Através da segmentação por ativos, detectei que a **Máquina 2** não registrou produção, indicando uma parada não programada ou manutenção prolongada que reduziu a capacidade produtiva em 1/3.
 ---
 
 # Inteligência Logística: Dashboard de Performance e Saúde Financeira
