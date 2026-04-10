@@ -36,13 +36,13 @@ Onde me encontrar:
 # Gestão de Performance Industrial: Produção vs. Metas
 
 <div align="center">
-  <img src="">
-  <img src="">
+  <img src="https://github.com/JCarlosGN/Gestao-de-Performance-Industrial--Producao-vs.-Metas/blob/main/Imagens%20Projeto%20de%20acompanhamento%20de%20Produ%C3%A7%C3%A3o/11.%20P%C3%A1gina%20Anual.JPG?raw=true"  width="48%">
+  <img src="https://github.com/JCarlosGN/Gestao-de-Performance-Industrial--Producao-vs.-Metas/blob/main/Imagens%20Projeto%20de%20acompanhamento%20de%20Produ%C3%A7%C3%A3o/12.%20P%C3%A1gina%20Mensal.JPG?raw=true"  width="48%">
 </div>
 
 <br>
 
-Este projeto foi desenvolvido para suprir a carência de visibilidade em uma operação fabril de alta complexidade. O Gestor de Operações enfrentava dificuldades em consolidar o desempenho de diferentes linhas de produção, o que comprometia a agilidade na identificação de gargalos e na tomada de decisões corretivas sobre o plano de metas.
+Este projeto foi desenvolvido para suprir a carência de visibilidade em uma operação fabril. O Gestor de Operações enfrentava dificuldades em consolidar o desempenho de diferentes linhas de produção, o que comprometia a agilidade na identificação de gargalos e na tomada de decisões corretivas sobre o plano de metas.
 
 A solução centraliza dados de múltiplos ativos, turnos e categorias de produtos em uma torre de controle interativa que permite a transição entre as visões estratégica (Anual) e tática (Mensal).
 
@@ -54,7 +54,17 @@ A solução centraliza dados de múltiplos ativos, turnos e categorias de produt
 * **Gestão de Causa Raiz:** O dashboard permitiu diagnosticar que o declínio no atingimento das metas em dois períodos críticos não foi causado por ineficiência operacional, mas por fatores estratégicos e técnicos:
     * **Julho (Desvio de Planejamento):** Identifiquei que a meta foi elevada em **40% acima da média histórica** (saltando para 1,19 Mi). Como a produção manteve seu ritmo estável, o "declínio" no dashboard foi provocado por uma meta irreal para a capacidade instalada da planta naquele período.
     * **Agosto (Falha de Disponibilidade):** Através da segmentação por ativos, detectei que a **Máquina 2** não registrou produção, indicando uma parada não programada ou manutenção prolongada que reduziu a capacidade produtiva em 1/3.
----
+<br>
+<div align="center">
+  <a href="https://app.powerbi.com/view?r=eyJrIjoiZGQ1YmFhMDItNjA2OS00Zjc2LThhMmMtYzdhMDBkZjE1YWRhIiwidCI6IjU1NjA1YTYzLTAyNDQtNDlmMy05NTZlLWQ3NDIwODcyMzg5NiJ9" target="_blank">
+    <img src="https://img.shields.io/badge/ACESSAR%20DASHBOARD-208EED?style=for-the-badge&logo=powerbi&logoColor=white">
+  </a>
+  <a href="https://github.com/JCarlosGN/Gestao-de-Performance-Industrial--Producao-vs.-Metas" target="_blank">
+    <img src="https://img.shields.io/badge/VER%20REPOSITÓRIO-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+</div>
+
+##
 
 # Inteligência Logística: Dashboard de Performance e Saúde Financeira
 
