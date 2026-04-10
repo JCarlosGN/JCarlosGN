@@ -33,7 +33,7 @@ Onde me encontrar:
 
 ## Portfólio e Principais Projetos
 
-### Gestão de Performance Industrial: Produção vs. Metas
+# Gestão de Performance Industrial: Produção vs. Metas
 
 <div align="center">
   <img src="">
