@@ -33,6 +33,28 @@ Onde me encontrar:
 
 ## Portfólio e Principais Projetos
 
+### Gestão de Performance Industrial: Produção vs. Metas
+
+<div align="center">
+  <img src="">
+  <img src="">
+</div>
+
+<br>
+
+Este projeto foi desenvolvido para suprir a carência de visibilidade em uma operação fabril de alta complexidade. O Gestor de Operações enfrentava dificuldades em consolidar o desempenho de diferentes linhas de produção, o que comprometia a agilidade na identificação de gargalos e na tomada de decisões corretivas sobre o plano de metas.
+
+A solução centraliza dados de múltiplos ativos, turnos e categorias de produtos em uma torre de controle interativa que permite a transição entre as visões estratégica (Anual) e tática (Mensal).
+
+#### Objetivos Estratégicos
+
+* **Visibilidade Consolidada:** Acompanhamento da performance global de produção em uma única interface, permitindo o monitoramento do percentual de atingimento de metas.
+* **Análise Granular:** Capacidade de filtrar e analisar o desempenho individualizado por **Máquina, Produto e Turno**, garantindo que nenhum desvio operacional passe despercebido.
+* **Monitoramento de Acumulados (YTD):** Comparativo rigoroso entre a Produção Real vs. Meta Acumulada, permitindo previsibilidade de fechamento de período.
+* **Gestão de Causa Raiz:** Identificação clara de meses com menor performance, como o caso de **Agosto**, onde o dashboard revelou a inatividade da **Máquina 2** como principal detrator do resultado operacional.
+
+---
+
 # Inteligência Logística: Dashboard de Performance e Saúde Financeira
 
 <div align="center">
