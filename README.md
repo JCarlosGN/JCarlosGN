@@ -2,11 +2,8 @@
 
 📍 **Caruaru - PE** | 💼 **Em transição para a área de Dados e BI**
 
-Sou um profissional com experiência prática em setores industriais e logísticos. Atualmente trabalho na **Localiza** (como Agente de Higienização) e foco-me na transição de carreira para a área de **Dados e BI**. O meu objetivo principal é transformar dados brutos em inteligência estratégica, criando relatórios e soluções analíticas para apoiar a tomada de decisões em grandes operações de qualquer nicho de mercado.
+Sou um profissional com mais de 10 anos de sólida experiência na Indústria Farmacêutica (atuando em Qualidade, Operações e Logística) e atualmente a integrar a equipa da **Localiza**. Foco-me na transição de carreira para a área de **Dados e BI**, com o objetivo principal de **transformar dados brutos em inteligência estratégica**, criando relatórios e soluções analíticas para apoiar a tomada de decisões em grandes operações de qualquer nicho de mercado.
 
-A minha experiência no chão de fábrica e na operação diária de uma grande empresa dá-me uma visão realista dos processos de negócio, o que me ajuda a traduzir problemas reais em soluções tecnológicas eficientes.
-
----
 
 ### 🎓 Formação Académica
 *   **Ensino Superior de Tecnologia em Ciência de Dados** — Gran Faculdade
