@@ -1,11 +1,28 @@
-# Olá, eu sou José Carlos 👋
+# Olá, eu sou o José Carlos 👋
 
-Sou um profissional em transição de carreira para a área de **Dados**, atualmente cursando **Ciência de Dados** e atuando como Agente de Higienização na Localiza. Meu foco é transformar dados brutos em inteligência estratégica para operações logísticas e comerciais.
+📍 **Caruaru - PE** | 💼 **Em transição para a área de Dados e BI**
 
-- 📍 Residente em Caruaru - PE
-- 🎓 Estudante de Ciência de Dados (Cloud e Análise de Dados) na Gran Faculdade
-- 💼 Experiência em setores industriais e logísticos
-- 🚀 Foco em SQL, Python, Power BI e automação de processos
+Sou um profissional com experiência prática em setores industriais e logísticos. Atualmente trabalho na **Localiza** (como Agente de Higienização) e foco-me na transição de carreira para a área de **Dados e BI**. O meu objetivo principal é transformar dados brutos em inteligência estratégica, criando relatórios e soluções analíticas para apoiar a tomada de decisões em grandes operações de qualquer nicho de mercado.
+
+A minha experiência no chão de fábrica e na operação diária de uma grande empresa dá-me uma visão realista dos processos de negócio, o que me ajuda a traduzir problemas reais em soluções tecnológicas eficientes.
+
+---
+
+### 🎓 Formação Académica
+*   **Ensino Superior de Tecnologia em Ciência de Dados** — Gran Faculdade
+    *   *Em andamento (Previsão de conclusão: 05/2027)*
+    *   **Foco Principal:** Análise de Dados, Business Intelligence (BI) e Cloud Computing.
+    *   **Competências Desenvolvidas:** Arquitetura de Big Data, Modelação de Bases de Dados (SQL/NoSQL), Engenharia de Dados, Data Mining e Estatística Aplicada.
+
+---
+
+### 🛠️ Competências Técnicas e Ferramentas
+
+*   **Linguagens de Programação:** Python, SQL
+*   **Bases de Dados:** SQL Server, MySQL, PostgreSQL
+*   **Análise e Visualização de Dados:** Power BI, Pandas, NumPy, Matplotlib
+*   **Nuvem e Automação:** Noções de Cloud (AWS/Azure) e Automação de Processos
+*   **Controlo de Versão:** Git, GitHub
 
 ---
 
